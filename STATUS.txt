@@ -1,8 +1,8 @@
 ttstatus = 0
 dcstatus = 1
-dcvstatus = 1
+dvstatus = 1
 tgstatus = 1
-xstatus = 0
+xtstatus = 0
 kkstatus = 0
 rxstatus = 0
 mcstatus = 0
