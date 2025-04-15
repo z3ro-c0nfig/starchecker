@@ -9,5 +9,5 @@ mcstatus = 0
 ytstatus = 0
 ststatus = 0
 twstatus = 0
-snstatus = 0
-igstatus = 0
+snstatus = 2
+igstatus = 1
